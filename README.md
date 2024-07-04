@@ -2,7 +2,7 @@
 Hi, I'm an Accessibility Engineer.  
 
 #### 🌱 my skills 🌱
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=9&i=python,django,js,ts,html,css,nodejs,react,nextjs,astro,tailwind,vite,netlify,git,github" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=9&i=python,django,js,ts,html,css,nodejs,react,nextjs,astro,prisma,supabase,tailwind,vite,netlify,git,github" />
 
 - I’m currently interesting ... **[Astro](https://astro.build/)** | **[shadcn/ui](https://ui.shadcn.com/)** | **[Cloudflare Pages](https://pages.cloudflare.com/)**
 
