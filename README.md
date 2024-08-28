@@ -1,5 +1,5 @@
 ### 🥟 About Gyoza
-Hi, I'm an Accessibility Engineer.  
+Hi, I'm an Accessibility Evangelist for free will.  
 
 #### 🌱 my skills 🌱
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=9&i=python,django,js,ts,html,css,nodejs,react,nextjs,astro,prisma,supabase,tailwind,vite,netlify,git,github" />
