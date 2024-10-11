@@ -2,9 +2,9 @@
 Hi, I'm an Accessibility Evangelist for free will.  
 
 #### 🌱 my skills 🌱
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=9&i=python,django,js,ts,html,css,nodejs,react,nextjs,astro,prisma,supabase,tailwind,vite,netlify,git,github" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=9&i=python,flask,django,js,ts,html,css,nodejs,react,nextjs,astro,threejs,prisma,supabase,mongodb,tailwind,vite,netlify,git,github,gmail,arduino,c,cs,cpp,discord,twitter,unreal,vscode" />
 
-- I’m currently interesting ... **[Astro](https://astro.build/)** | **[shadcn/ui](https://ui.shadcn.com/)** | **[Cloudflare Pages](https://pages.cloudflare.com/)**
+- I’m currently interested in ... **[Astro](https://astro.build/)** | **[shadcn/ui](https://ui.shadcn.com/)** | **[Cloudflare Pages](https://pages.cloudflare.com/)**
 
 ***
 
