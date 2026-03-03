@@ -14,12 +14,12 @@ Hi, I'm an Accessibility Evangelist for free will.
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Unicorn201" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Unicorn201&margin-w=5)](https://github.com/Unicorn201/)
+[![trophy](http://localhost:8080/?username=Unicorn201&margin-w=5)](https://github.com/Unicorn201/github-profile-trophy)
 
 ***
 
 #### 📫 Contact me. 📫
-**[Blog - World Hacker](https://gyozaless.com)** | **[Twitter - [@a_certain_gyoza](https://twitter.com/STI33304891)]** | [Gmail]
+**Blog - [World Hacker](https://gyozaless.com)** | **X/Twitter - [某ぎょうざ@World Hacker](https://x.com/GYOZALESS_201)** | [Gmail]
 
 
 <!--
